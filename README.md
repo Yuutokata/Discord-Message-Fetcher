@@ -76,7 +76,7 @@ To run the script:
     
     bash
     
-    `python your_script_name.py` 
+    `python main.py` 
     
 
 The script will:
