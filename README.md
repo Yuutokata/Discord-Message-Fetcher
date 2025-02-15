@@ -1,7 +1,7 @@
 
 # Discord Message Fetcher
 
-This Python script retrieves messages from a specified Discord channel using Discord's API. It continuously fetches batches of messages until no more are available and saves them to a JSON file for later use.
+This Python script retrieves messages from a specified Discord channel using Discord's API. It continuously fetches batches of messages until no more are available and saves them to a JSON file for later use. I used it to feed an ai and let it analyse a market trend.
 
 ## Features
 
